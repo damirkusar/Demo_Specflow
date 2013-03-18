@@ -1,0 +1,11 @@
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\obj\Debug\Demo_Specflow.test.csprojResolveAssemblyReference.cache
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\Demo_Specflow.test.dll.config
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\Demo_Specflow.test.dll
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\Demo_Specflow.test.pdb
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\Demo_Specflow.exe
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\nunit.framework.dll
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\TechTalk.SpecFlow.dll
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\Demo_Specflow.pdb
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\bin\Debug\nunit.framework.xml
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\obj\Debug\Demo_Specflow.test.dll
+C:\work\Demo\Demo_Specflow\Demo_Specflow.test\obj\Debug\Demo_Specflow.test.pdb

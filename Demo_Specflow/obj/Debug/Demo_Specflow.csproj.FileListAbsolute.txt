@@ -1,0 +1,6 @@
+C:\work\Demo\Demo_Specflow\Demo_Specflow\bin\Debug\Demo_Specflow.exe.config
+C:\work\Demo\Demo_Specflow\Demo_Specflow\bin\Debug\Demo_Specflow.exe
+C:\work\Demo\Demo_Specflow\Demo_Specflow\bin\Debug\Demo_Specflow.pdb
+C:\work\Demo\Demo_Specflow\Demo_Specflow\obj\Debug\Demo_Specflow.exe
+C:\work\Demo\Demo_Specflow\Demo_Specflow\obj\Debug\Demo_Specflow.pdb
+C:\work\Demo\Demo_Specflow\Demo_Specflow\bin\Debug\TechTalk.SpecFlow.dll
